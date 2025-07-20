@@ -77,3 +77,23 @@ Netflix-EDA/
    
 4. Run the Streamlit app:
    streamlit run app.py
+
+---
+
+## 🔍 Key Insights
+
+Netflix has significantly more Movies than TV Shows
+Most content is produced in the United States, followed by India
+Peak content addition occurred between 2018–2020
+Top genres include Dramas, International Movies, and Documentaries
+
+---
+
+👨‍💻 Author
+Pranav Hadole
+📚 B.Tech AI & Data Science @ Sanjivani University
+📫 connect with me on LinkedIn: https://www.linkedin.com/in/pranav-ai-datascience/
+
+⭐️ If you like this project...
+
+Please ⭐️ the repo and share it! It encourages me to build more open-source projects like this 💻
